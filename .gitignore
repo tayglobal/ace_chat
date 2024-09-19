@@ -1,0 +1,10 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .firebase directory
+.firebase/
+
+# Ignore firebase.js file inside src/lib
+src/lib/firebase.js
+
+.env
